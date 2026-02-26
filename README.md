@@ -7,7 +7,11 @@ This repository contains the development work for an **in-progress** game create
 ## Repository Structure
 ```text
 SILVER-BULLET/                          # repo root
-├── .gitignore
+├── Silver Bullet
+    ├── Assets
+    ├── Packages
+    ├── ProjectSettings
+    └── .gitignore
 ├── LICENSE
 └── README.md
 ```

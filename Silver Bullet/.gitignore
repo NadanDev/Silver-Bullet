@@ -27,6 +27,7 @@
 # Visual Studio / VS Code
 .vs/
 .vscode/
+.vsconfig/
 
 # Gradle
 .gradle/
