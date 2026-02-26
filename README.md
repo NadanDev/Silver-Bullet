@@ -11,7 +11,8 @@ SILVER-BULLET/                          # repo root
     ├── Assets
     ├── Packages
     ├── ProjectSettings
-    └── .gitignore
+    ├── .gitignore
+    └── .vsconfig
 ├── LICENSE
 └── README.md
 ```
